@@ -1,7 +1,7 @@
 ### Hello, I am Alexander Arkhipov 👋
 
 - 🔭 I’m currently studying at Inholland University of Applied Sciences
-- 🌱 I’m currently learning Vuejs and Spring Boot
+- 🌱 I’m currently learning Cloud Computing
 - 👯 I’m looking to collaborate on various projects in the future
 - 💬 Ask me about anything
 - 📫 How to reach me: alex.arkhipov.7590@gmail.com
